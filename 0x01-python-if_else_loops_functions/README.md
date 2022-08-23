@@ -2,10 +2,10 @@
 ## ALX School Full Stack Software Engineering Project. It aims to learn about if/else statements, loops, range and functions in Python.
 
 ## Technologies
-Shell Scripts are written in Bash 4.3.11(1)
-Python Scripts are written with Python 3.10.6
-C files are compiled using gcc 4.8.4
-Tested on Ubuntu 20.04 LTS
+* Shell Scripts are written in Bash 4.3.11(1)
+* Python Scripts are written with Python 3.10.6
+* C files are compiled using gcc 4.8.4
+* Tested on Ubuntu 20.04 LTS
 ## Files:
 |Filename |	Description|
 |:--------|:----------:|
